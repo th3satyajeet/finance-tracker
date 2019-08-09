@@ -29,6 +29,19 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
+gem 'devise'
+
+gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
+gem 'jquery-rails'
+
+gem 'devise-bootstrap-views' 
+gem "stock_quote", '~> 3.0.0'
+
+# Gem for stock quote
+# gem 'stock_quote' 
+gem 'iex-ruby-client'
+
+gem 'hirb'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
