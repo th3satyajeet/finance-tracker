@@ -37,6 +37,8 @@ gem 'jquery-rails'
 gem 'devise-bootstrap-views' 
 gem "stock_quote", '~> 3.0.0'
 
+gem "font-awesome-rails"
+
 # Gem for stock quote
 # gem 'stock_quote' 
 gem 'iex-ruby-client'
